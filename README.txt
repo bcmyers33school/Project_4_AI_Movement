@@ -1,0 +1,2 @@
+Everything in my project should work. I'm not in honors but I also did the bonus wander movement system.
+One of the problems I had in this project was trying to get the game objects to sense other game objects. I used a method I saw on youtube which was to add an empty game object as a child to the AI character, add a sphere mesh to the child object and add a script to sense anything within the sphere mesh field.
